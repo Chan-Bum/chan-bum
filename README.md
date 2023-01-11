@@ -1,6 +1,4 @@
 Hey There! 
-
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning progrmming with Python
 - 📫 How to reach me: lektimus.r@gmail.com
 
