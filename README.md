@@ -1,4 +1,4 @@
-Hey There! 
+Hi There! 
 - 🌱 I’m currently learning progrmming with Python
 - 📫 How to reach me: lektimus.r@gmail.com
 
